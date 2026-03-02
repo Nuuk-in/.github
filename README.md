@@ -1,80 +1,42 @@
-<div align="center">
-
 ```
-
-            ██                ██
-           ████              ████
-          ██  ██            ██  ██
-         ██    ██          ██    ██
-        ██      ██        ██      ██
-       ██        ██      ██        ██
-      ██          ██    ██          ██
-     ██            ██  ██            ██
-    ██              ████              ██
-   ██             ████████             ██
-  ██           ████████████           ██
-   ██        ████████████████        ██
-    ██      ██████████████████      ██
-     ██    ████████████████████    ██
-      ██  ██████████████████████  ██
-       ████████████████████████████
-        ██████████████████████████
-         ████████████████████████
-          ██████████████████████
-           ████████████████████
-            ██████████████████
-             ████████████████
-              ██████████████
-               ████████████
-                ██████████
-                 ████████
-                  ██████
-                   ████
-                    ██
-
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ███╗   ██╗██╗   ██╗██╗   ██╗██╗  ██╗██╗███╗   ██╗            ║
+║   ████╗  ██║██║   ██║██║   ██║██║ ██╔╝██║████╗  ██║            ║
+║   ██╔██╗ ██║██║   ██║██║   ██║█████╔╝ ██║██╔██╗ ██║            ║
+║   ██║╚██╗██║██║   ██║██║   ██║██╔═██╗ ██║██║╚██╗██║            ║
+║   ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██╗██║██║ ╚████║            ║
+║   ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝            ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░            ║
+║        ░  W E L C O M E   T O   T H E   S Y S T E M  ░            ║
+║        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░            ║
+║                                                                  ║
+║    SysOp: naptax                    Node: 1 of 4                 ║
+║    Baud:  14400                     Protocol: ZModem             ║
+║    Calls: 31,337                    Last On: 03/02/26            ║
+║                                                                  ║
+║  ┌─────────────── MAIN MENU ───────────────┐                    ║
+║  │                                         │                    ║
+║  │   [M] Message Boards    [F] File Areas  │                    ║
+║  │   [C] Chat Rooms        [D] Doors/Games │                    ║
+║  │   [U] User List         [S] Statistics  │                    ║
+║  │   [P] Page SysOp        [G] Goodbye     │                    ║
+║  │                                         │                    ║
+║  └─────────────────────────────────────────┘                    ║
+║                                                                  ║
+║       _____                                                      ║
+║      /     \   "The future is already here                       ║
+║     | () () |   — it's just not evenly                           ║
+║      \  ^  /    distributed."                                    ║
+║       |||||                          — William Gibson            ║
+║       |||||                                                      ║
+║                                                                  ║
+║  ──────────────────────────────────────────────────────────────  ║
+║   Running: Telegard BBS v3.09g1       ANSI Detected: YES         ║
+║   FidoNet: 2:320/104                  Uptime: 42 days            ║
+╚══════════════════════════════════════════════════════════════════╝
+          Your selection, caller? [M,F,C,D,U,S,P,G] > _
 ```
-
-# NUUKIN
-
-### *Building together, shipping further*
-
----
-
-**We believe great software is born from collaboration.**
-
-</div>
-
----
-
-### Who we are
-
-We are a team of developers, designers and problem-solvers united by a shared mission: crafting tools that make a difference. Every contribution matters, every voice is heard.
-
-### What we do
-
-- **Open Source** --- We build in the open and give back to the community
-- **Developer Tools** --- We create tools that developers actually want to use
-- **Collaboration First** --- Every project starts with a conversation
-
-### How to contribute
-
-We welcome contributions from everyone. Check out our repositories, open an issue, or submit a pull request. No contribution is too small.
-
-```
-  You bring the ideas.     We bring the platform.     Together we build.
-        ╭───╮                   ╭───╮                   ╭───╮
-        │ ? │ ──────────────── │ + │ ──────────────── │ ✓ │
-        ╰───╯                   ╰───╯                   ╰───╯
-       EXPLORE                  CREATE                  SHIP
-```
-
----
-
-<div align="center">
-
-*Handshake accepted. Let's build something great.*
-
-[![GitHub](https://img.shields.io/badge/Join_us-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Chat_with_us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-
-</div>
